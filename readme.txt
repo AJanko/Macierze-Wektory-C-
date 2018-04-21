@@ -1,0 +1,1 @@
+Projekt zawieraj¹cy klasy s³u¿¹ce obs³udze dzia³añ na wektorach i macierzach. W sk³ad programu wchodz¹ równie¿ funkcje odpowiedzialne za tworzenie macierzy transformacji.
